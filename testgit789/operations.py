@@ -13,3 +13,10 @@ def soustraction(a,b):
     Implementation of soustraction operation
     """
     return a-b
+
+
+def multiplication(a,b):
+    """
+    Implementation of soustraction operation
+    """
+    return a*b
