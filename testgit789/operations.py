@@ -6,4 +6,4 @@ def addition(a, b):
     """
     Implementation of addition
     """
-    pass
+    return a+b
