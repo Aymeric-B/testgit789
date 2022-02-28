@@ -12,4 +12,4 @@ def custom_operation(a,b,c):
     """
     Implementation of a custom operation
     """
-    pass
+    return addition(a, soustraction(b,c))
