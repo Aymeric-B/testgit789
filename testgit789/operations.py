@@ -12,4 +12,4 @@ def soustraction(a,b):
     """
     Implementation of soustraction operation
     """
-    pass
+    return a-b
